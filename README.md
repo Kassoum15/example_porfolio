@@ -1,6 +1,7 @@
 # Developer Portfolios
 # test build
-A list of developer portfolios for your inspiration
+A list of developer portfolios for your inspiration 
+try it and you will see the results
 
 Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md) to this repo and
 let's showcase your work! Refer to the [Contributing](./CONTRIBUTING.md) file for direction.
